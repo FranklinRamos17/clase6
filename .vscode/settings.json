@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "EstRepetitivo",
         "EjercicioCondMult.java",
-        "EstRepetitivo.java"
+        "EstRepetitivas"
     ]
 }

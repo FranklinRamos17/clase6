@@ -1,4 +1,4 @@
-public class EjercicioRepetitivo {
+public class EjercicioRepetitivo{
 
     public static void ejer41While() {
         int contador=1;
